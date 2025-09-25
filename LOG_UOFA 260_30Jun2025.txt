@@ -1,0 +1,356 @@
+01/13/00 02:16:18 System log created.
+01/13/00 02:16:18 Configured ebox for in-field replacement,
+01/13/00 02:16:33 61640 0 ZERROR: System power is off.
+01/13/00 02:16:47 Cpu and lcd initialization completed.
+01/13/00 02:16:49 booting: stepper controller v10.030
+01/13/00 02:16:50 booting: servo controller v11.009 [2:7]
+01/13/00 02:16:50 POWER: Pogo Raw:15825mV Sense:15760mV Current:296mA DAC:169
+01/13/00 02:16:51 booting: color pogo card detected.
+01/13/00 02:16:51 Feeder Calibration: Slope: -2000  Offset: -2000  DAC Offset: -2000
+01/13/00 02:16:51 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/13/00 02:16:51 System Calibration: Slope: -0.00063822  Offset: -1998.3
+01/13/00 02:16:51 InitCal: System Calibration not valid
+01/13/00 02:16:51 InitCal:   Feeder Slope:-2000.000000 Offset:-2000.000000
+01/13/00 02:16:51 InitCal:   EBox Slope:3133737.785016 Offset:-49.883485
+01/13/00 02:16:51 InitCal:   DAC Slope:-1.326265 Offset:-2000
+01/13/00 02:16:51 Printer: booting VLPM_ELLC
+01/13/00 02:16:51 Rev: 12.19.0.0
+01/13/00 02:16:51 Ebox is configured for in-field replacement.
+01/13/00 02:17:25 61640 0 ZERROR: System power is off.
+01/01/00 00:00:07 Cpu and lcd initialization completed.
+01/01/00 00:00:09 booting: stepper controller v10.030
+01/01/00 00:00:10 booting: servo controller v11.009 [2:7]
+01/01/00 00:00:10 POWER: Pogo Raw:20475mV Sense:2955mV Current:532mA DAC:0
+01/01/00 00:00:10 60200 2955 LOWLEVEL: 15v supply voltage out of tolerance: 2955.
+01/01/00 00:02:50 Cpu and lcd initialization completed.
+01/01/00 00:02:52 booting: stepper controller v10.030
+01/01/00 00:02:53 booting: servo controller v11.009 [2:7]
+01/01/00 00:02:53 POWER: Pogo Raw:20475mV Sense:2955mV Current:528mA DAC:0
+01/01/00 00:02:53 60200 2955 LOWLEVEL: 15v supply voltage out of tolerance: 2955.
+01/01/00 00:03:05 Cpu and lcd initialization completed.
+01/01/00 00:03:22 Cpu and lcd initialization completed.
+01/01/00 00:03:25 booting: stepper controller v10.030
+01/01/00 00:03:26 booting: servo controller v11.009 [2:7]
+01/01/00 00:03:26 POWER: Pogo Raw:20475mV Sense:2955mV Current:532mA DAC:0
+01/01/00 00:03:26 60200 2955 LOWLEVEL: 15v supply voltage out of tolerance: 2955.
+01/01/00 01:23:39 Cpu and lcd initialization completed.
+01/01/00 01:23:41 booting: stepper controller v10.030
+01/01/00 01:23:42 booting: servo controller v11.009 [2:7]
+01/01/00 01:23:42 POWER: Pogo Raw:15770mV Sense:15750mV Current:232mA DAC:166
+01/01/00 01:23:43 booting: color pogo card detected.
+01/01/00 01:23:43 Feeder Calibration: Slope: -2000  Offset: -2000  DAC Offset: -2000
+01/01/00 01:23:43 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/01/00 01:23:43 System Calibration: Slope: -0.00063822  Offset: -1998.3
+01/01/00 01:23:43 InitCal: System Calibration not valid
+01/01/00 01:23:43 InitCal:   Feeder Slope:-2000.000000 Offset:-2000.000000
+01/01/00 01:23:43 InitCal:   EBox Slope:3133737.785016 Offset:-49.883485
+01/01/00 01:23:43 InitCal:   DAC Slope:-1.326265 Offset:-2000
+01/01/00 01:23:43 Printer: booting VLPM_ELLC
+01/01/00 01:23:43 Rev: 12.19.0.0
+01/01/00 01:23:43 Ebox is configured for in-field replacement.
+01/01/00 01:25:46 70009 0 PACKETS: can't get IP address
+01/01/00 01:28:22 Cpu and lcd initialization completed.
+01/01/00 01:31:26 Cpu and lcd initialization completed.
+01/01/00 01:31:29 booting: stepper controller v10.030
+01/01/00 01:31:30 booting: servo controller v11.009 [2:7]
+01/01/00 01:31:30 POWER: Pogo Raw:15775mV Sense:15750mV Current:247mA DAC:167
+01/01/00 01:31:31 booting: color pogo card detected.
+01/01/00 01:31:31 Feeder Calibration: Slope: -2000  Offset: -2000  DAC Offset: -2000
+01/01/00 01:31:31 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/01/00 01:31:31 System Calibration: Slope: -0.00063822  Offset: -1998.3
+01/01/00 01:31:31 InitCal: System Calibration not valid
+01/01/00 01:31:31 InitCal:   Feeder Slope:-2000.000000 Offset:-2000.000000
+01/01/00 01:31:31 InitCal:   EBox Slope:3133737.785016 Offset:-49.883485
+01/01/00 01:31:31 InitCal:   DAC Slope:-1.326265 Offset:-2000
+01/01/00 01:31:31 Printer: booting VLPM_ELLC
+01/01/00 01:31:31 Rev: 12.19.0.0
+01/01/00 01:31:31 Ebox is configured for in-field replacement.
+01/01/00 01:33:30 Override set: skipping rezero.
+01/01/00 01:38:19 Cpu and lcd initialization completed.
+01/01/00 01:38:22 booting: stepper controller v10.030
+01/01/00 01:38:23 booting: servo controller v11.009 [2:7]
+01/01/00 01:38:23 POWER: Pogo Raw:15775mV Sense:15745mV Current:251mA DAC:168
+01/01/00 01:38:24 booting: color pogo card detected.
+01/01/00 01:38:24 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/01/00 01:38:24 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/01/00 01:38:24 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/01/00 01:38:24 System Calibration: Slope: 0.023015  Offset: -3.479
+01/01/00 01:38:24 Printer: booting UofA 260
+01/01/00 01:38:24 Rev: 12.19.0.0
+01/01/00 01:38:24 PJ260
+01/01/00 01:38:24 FW compiled May 10 2017 16:48:16 7040001 R
+01/01/00 01:38:38 BUILD PISTON: Rezeroed.
+01/01/00 01:39:28 Fast Axis meas:14.277 ideal:14.301
+01/01/00 01:40:05 FeederSlowTweak:0.051
+01/01/00 01:40:07 POWER: VPP just-powered current is 22ma
+01/01/00 01:40:07 Head0 Removed: S/N 0
+01/01/00 01:40:07 Head0 0.00e+00 pixels printed.
+01/01/00 01:40:07 Head0 Inserted: S/N C80B07D03904
+01/01/00 01:40:07 Head1 Removed: S/N 0
+01/01/00 01:40:07 Y: 0.00e+00 pixels printed.
+01/01/00 01:40:07 M: 0.00e+00 pixels printed.
+01/01/00 01:40:07 C: 0.00e+00 pixels printed.
+01/01/00 01:40:07 Head1 Inserted: S/N 4650E8
+01/01/00 01:43:43 POWER: VPP just-powered current is 22ma
+01/01/00 01:49:30 TuneFeederControl: spreading 200 layers.
+01/01/00 01:49:30 TPCI and TPCI averages set to 6000.
+01/01/00 01:49:30 POWDER::StartJob for UofA 260, build piston at 23356.
+01/01/00 01:52:01 Powder Alert: TeethPerCuIn at minimum (2500)
+01/01/00 02:26:45 POWER: VPP just-powered current is 23ma
+01/01/00 02:26:45 TuneFeederControl: new TPCI calculated, 3211.9.
+01/01/00 02:26:45 TPCI and TPCI averages set to 3211.9.
+01/01/00 02:29:43 POWER: VPP just-powered current is 30ma
+01/01/00 13:57:14 POWER: VPP just-powered current is 30ma
+01/01/00 13:57:34 2303 0 MOVER: axis 0 excessive position error
+01/01/00 20:42:22 Cpu and lcd initialization completed.
+01/01/00 20:42:42 Cpu and lcd initialization completed.
+01/01/00 20:42:45 booting: stepper controller v10.030
+01/01/00 20:42:46 booting: servo controller v11.009 [2:7]
+01/01/00 20:42:46 POWER: Pogo Raw:15770mV Sense:15750mV Current:270mA DAC:169
+01/01/00 20:42:47 booting: color pogo card detected.
+01/01/00 20:42:47 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/01/00 20:42:47 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/01/00 20:42:47 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/01/00 20:42:47 System Calibration: Slope: 0.023015  Offset: -3.479
+01/01/00 20:42:47 Printer: booting UofA 260
+01/01/00 20:42:47 Rev: 12.19.0.0
+01/01/00 20:42:47 PJ260
+01/01/00 20:42:47 FW compiled May 10 2017 16:48:16 7040001 R
+01/01/00 20:44:14 BUILD PISTON: Rezeroed.
+01/01/00 20:44:56 Fast Axis meas:14.276 ideal:14.301
+01/01/00 20:45:33 FeederSlowTweak:0.049
+01/01/00 20:45:35 POWER: VPP just-powered current is 30ma
+01/01/00 21:26:31 POWER: VPP just-powered current is 22ma
+01/01/00 21:40:26 FillBed started at 23356 piston steps.
+01/01/00 21:46:37 POWER: VPP just-powered current is 30ma
+01/01/00 21:46:38 FillBed ended at 23124 piston steps.
+01/01/00 21:46:39 AUTOALIGN: starting autoalign
+01/01/00 21:46:51 POWER: VPP just-powered current is 30ma
+01/01/00 21:58:50 purge heads 2.432e+09 pixels
+01/01/00 21:59:23 POWER: VPP just-powered current is 30ma
+01/01/00 21:59:23 Printer: start job
+01/01/00 21:59:23 POWDER::StartJob for UofA 260, build piston at 23108.
+01/01/00 21:59:27 CheckHome fast LM629:2 SEQ:2
+01/01/00 21:59:27 Measured 0.001 inches Limit: 0.030 inches
+01/01/00 22:04:08 2303 0 MOVER: axis 0 excessive position error
+01/02/00 02:08:12 Cpu and lcd initialization completed.
+01/02/00 02:08:15 booting: stepper controller v10.030
+01/02/00 02:08:16 booting: servo controller v11.009 [2:7]
+01/02/00 02:08:16 POWER: Pogo Raw:15760mV Sense:15740mV Current:262mA DAC:169
+01/02/00 02:08:17 booting: color pogo card detected.
+01/02/00 02:08:17 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/02/00 02:08:17 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/02/00 02:08:17 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/02/00 02:08:17 System Calibration: Slope: 0.023015  Offset: -3.479
+01/02/00 02:08:17 Printer: booting UofA 260
+01/02/00 02:08:17 Rev: 12.19.0.0
+01/02/00 02:08:17 PJ260
+01/02/00 02:08:17 FW compiled May 10 2017 16:48:16 7040001 R
+01/02/00 02:09:44 BUILD PISTON: Rezeroed.
+01/02/00 02:10:37 Fast Axis meas:14.278 ideal:14.301
+01/02/00 02:11:12 FeederSlowTweak:0.044
+01/02/00 02:11:14 POWER: VPP just-powered current is 22ma
+01/02/00 02:21:51 POWER: VPP just-powered current is 22ma
+01/02/00 02:24:21 Fast Axis meas:14.275 ideal:14.301
+01/02/00 02:24:57 FeederSlowTweak:0.030
+01/02/00 02:25:00 POWER: VPP just-powered current is 30ma
+01/02/00 02:26:45 POWER: VPP just-powered current is 22ma
+01/02/00 02:27:09 FillBed started at 23356 piston steps.
+01/02/00 02:28:07 POWER: VPP just-powered current is 30ma
+01/02/00 02:28:08 FillBed ended at 23124 piston steps.
+01/02/00 02:28:21 POWER: VPP just-powered current is 30ma
+01/02/00 02:30:17 POWER: VPP just-powered current is 30ma
+01/02/00 02:32:34 FillBed started at 23124 piston steps.
+01/02/00 02:37:38 POWER: VPP just-powered current is 30ma
+01/02/00 02:37:38 FillBed ended at 23012 piston steps.
+01/02/00 02:37:40 AUTOALIGN: starting autoalign
+01/02/00 02:37:52 POWER: VPP just-powered current is 30ma
+01/02/00 02:37:52 purge heads 0.000e+00 pixels
+01/02/00 02:38:07 POWER: VPP just-powered current is 30ma
+01/02/00 02:38:07 Printer: start job
+01/02/00 02:38:07 POWDER::StartJob for UofA 260, build piston at 22996.
+01/02/00 02:38:11 CheckHome fast LM629:-19 SEQ:-18
+01/02/00 02:38:11 Measured -0.005 inches Limit: 0.030 inches
+01/02/00 02:47:28 AUTOALIGN: user cancel
+01/02/00 02:47:28 Aborting job.
+01/02/00 02:47:28 POWER: VPP just-powered current is 23ma
+01/02/00 02:48:10 Printer: 4 layers in 0:05:19, 516209252 pixels
+01/02/00 02:48:10 Maximum monitor thread msec: 29
+01/02/00 02:48:10 Build piston at 22916 steps.
+01/02/00 02:53:57 POWER: VPP just-powered current is 23ma
+01/02/00 02:58:50 POWER: VPP just-powered current is 30ma
+01/02/00 03:08:39 purge heads 2.432e+09 pixels
+01/02/00 03:09:02 POWER: VPP just-powered current is 22ma
+01/02/00 04:22:55 FillBed started at 22916 piston steps.
+01/02/00 04:29:05 POWER: VPP just-powered current is 30ma
+01/02/00 04:29:05 FillBed ended at 22804 piston steps.
+01/02/00 04:29:07 AUTOALIGN: starting autoalign
+01/02/00 04:29:20 POWER: VPP just-powered current is 30ma
+01/02/00 04:29:20 purge heads 0.000e+00 pixels
+01/02/00 04:29:35 POWER: VPP just-powered current is 30ma
+01/02/00 04:29:35 Printer: start job
+01/02/00 04:29:35 POWDER::StartJob for UofA 260, build piston at 22788.
+01/02/00 04:29:39 CheckHome fast LM629:-16 SEQ:-14
+01/02/00 04:29:39 Measured -0.004 inches Limit: 0.030 inches
+01/02/00 04:48:30 AUTOALIGN: Detector location: slow:0.024134 fast:0.025803
+01/02/00 04:48:54 AutoAligned Axis 1: 44.12 734.00 712.00 690.00 
+01/02/00 04:49:26 AutoAligned Axis 0: 23.00 10.00 10.00 10.00 
+01/02/00 04:49:27 POWER: VPP just-powered current is 30ma
+01/02/00 04:51:26 Printer: 15 layers in 0:17:07, 1006572276 pixels
+01/02/00 04:51:26 Maximum monitor thread msec: 30
+01/02/00 04:51:26 Build piston at 22588 steps.
+01/02/00 04:51:26 AUTOALIGN: success
+01/02/00 04:51:26 JOB DATA X:08.83 Y:02.83 Z:00.59 L:0.0040 N:0149
+01/02/00 04:51:26 JOB DATA V:0006.87 S:0100.29 C:1 B:0151
+01/02/00 04:51:26 JOB DATA ZPRINT:1.03 JOB_ID:EB7968CA819553C5
+01/02/00 04:51:26 JOB DATA M:0100 P:0003 s:0.994 c:0.292 E:1.4
+01/02/00 04:51:26 JOB DATA LT:20250619::16:57:39 UTC:20250619::21:57:39
+01/02/00 04:51:26 PART DATA X:02.83 Y:02.83 Z:00.59 V:0002.29 S:0033.43 C:1
+01/02/00 04:51:26 PART DATA X:02.83 Y:02.83 Z:00.59 V:0002.29 S:0033.43 C:1
+01/02/00 04:51:26 PART DATA X:02.83 Y:02.83 Z:00.59 V:0002.29 S:0033.43 C:1
+01/02/00 04:55:30 Printer: start job
+01/02/00 04:55:30 POWDER::StartJob for UofA 260, build piston at 22108.
+01/02/00 04:55:38 POWER: VPP just-powered current is 23ma
+01/02/00 04:56:10 POWER: VPP just-powered current is 23ma
+01/02/00 04:56:13 CheckHome fast LM629:-22 SEQ:-20
+01/02/00 04:56:13 Measured -0.006 inches Limit: 0.030 inches
+01/02/00 05:39:31 2303 0 MOVER: axis 0 excessive position error
+01/02/00 21:36:23 Cpu and lcd initialization completed.
+01/02/00 21:36:26 booting: stepper controller v10.030
+01/02/00 21:36:27 booting: servo controller v11.009 [2:7]
+01/02/00 21:36:27 POWER: Pogo Raw:15785mV Sense:15755mV Current:270mA DAC:169
+01/02/00 21:36:28 booting: color pogo card detected.
+01/02/00 21:36:28 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/02/00 21:36:28 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/02/00 21:36:28 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/02/00 21:36:28 System Calibration: Slope: 0.023015  Offset: -3.479
+01/02/00 21:36:28 Printer: booting UofA 260
+01/02/00 21:36:28 Rev: 12.19.0.0
+01/02/00 21:36:28 PJ260
+01/02/00 21:36:28 FW compiled May 10 2017 16:48:16 7040001 R
+01/02/00 21:37:55 BUILD PISTON: Rezeroed.
+01/02/00 21:38:38 Fast Axis meas:14.283 ideal:14.301
+01/02/00 21:39:15 FeederSlowTweak:0.019
+01/02/00 21:39:17 POWER: VPP just-powered current is 23ma
+01/02/00 22:03:50 POWER: VPP just-powered current is 22ma
+01/02/00 22:06:23 FillBed started at 23356 piston steps.
+01/02/00 22:12:27 POWER: VPP just-powered current is 22ma
+01/02/00 22:12:28 FillBed ended at 23124 piston steps.
+01/02/00 22:12:30 JOB DATA X:05.83 Y:02.83 Z:00.59 L:0.0040 N:0149
+01/02/00 22:12:30 JOB DATA V:0004.58 S:0066.86 C:1 B:0151
+01/02/00 22:12:30 JOB DATA ZPRINT:1.03 JOB_ID:EA7CF38FF0495EE2
+01/02/00 22:12:30 JOB DATA M:0100 P:0002 s:0.994 c:0.292 E:0.59
+01/02/00 22:12:30 JOB DATA LT:20250620::10:18:44 UTC:20250620::15:18:44
+01/02/00 22:12:30 PART DATA X:02.83 Y:02.83 Z:00.59 V:0002.29 S:0033.43 C:1
+01/02/00 22:12:30 PART DATA X:02.83 Y:02.83 Z:00.59 V:0002.29 S:0033.43 C:1
+01/02/00 22:12:30 Printer: start job
+01/02/00 22:12:30 POWDER::StartJob for UofA 260, build piston at 23124.
+01/02/00 22:12:38 POWER: VPP just-powered current is 22ma
+01/02/00 22:13:10 POWER: VPP just-powered current is 30ma
+01/02/00 22:13:13 CheckHome fast LM629:10 SEQ:11
+01/02/00 22:13:13 Measured 0.003 inches Limit: 0.030 inches
+01/02/00 23:22:49 Printer: 149 layers in 1:04:56, 1528734626 pixels
+01/02/00 23:22:49 Maximum monitor thread msec: 30
+01/02/00 23:22:49 Build piston at 20724 steps.
+01/02/00 23:23:09 POWER: VPP just-powered current is 30ma
+01/03/00 01:24:19 FillBed started at 23356 piston steps.
+01/03/00 01:30:38 POWER: VPP just-powered current is 22ma
+01/03/00 01:30:38 FillBed ended at 23124 piston steps.
+01/03/00 01:30:39 JOB DATA X:07.85 Y:06.46 Z:00.43 L:0.0040 N:0110
+01/03/00 01:30:39 JOB DATA V:0003.95 S:0101.65 C:0 B:0151
+01/03/00 01:30:39 JOB DATA ZPRINT:1.03 JOB_ID:60375885CF1F1E31
+01/03/00 01:30:39 JOB DATA M:0100 P:0003 s:0.994 c:0.292 E:0.47
+01/03/00 01:30:39 JOB DATA LT:20250620::13:36:55 UTC:20250620::18:36:55
+01/03/00 01:30:39 PART DATA X:05.93 Y:02.80 Z:00.43 V:0001.31 S:0021.90 C:0
+01/03/00 01:30:39 PART DATA X:03.85 Y:03.46 Z:00.41 V:0001.32 S:0039.87 C:0
+01/03/00 01:30:39 PART DATA X:03.85 Y:03.46 Z:00.41 V:0001.32 S:0039.87 C:0
+01/03/00 01:30:39 Printer: start job
+01/03/00 01:30:39 POWDER::StartJob for UofA 260, build piston at 23124.
+01/03/00 01:30:47 POWER: VPP just-powered current is 30ma
+01/03/00 01:31:20 POWER: VPP just-powered current is 22ma
+01/03/00 01:31:22 CheckHome fast LM629:22 SEQ:22
+01/03/00 01:31:22 Measured 0.006 inches Limit: 0.030 inches
+01/03/00 02:32:20 Printer: 110 layers in 0:56:18, 1434684528 pixels
+01/03/00 02:32:20 Maximum monitor thread msec: 29
+01/03/00 02:32:20 Build piston at 21348 steps.
+01/03/00 02:32:35 2303 0 MOVER: axis 0 excessive position error
+01/03/00 04:52:51 Cpu and lcd initialization completed.
+01/03/00 04:52:54 booting: stepper controller v10.030
+01/03/00 04:52:55 booting: servo controller v11.009 [2:7]
+01/03/00 04:52:55 POWER: Pogo Raw:15780mV Sense:15755mV Current:273mA DAC:168
+01/03/00 04:52:56 booting: color pogo card detected.
+01/03/00 04:52:56 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/03/00 04:52:56 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/03/00 04:52:56 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/03/00 04:52:56 System Calibration: Slope: 0.023015  Offset: -3.479
+01/03/00 04:52:56 Printer: booting UofA 260
+01/03/00 04:52:56 Rev: 12.19.0.0
+01/03/00 04:52:56 PJ260
+01/03/00 04:52:56 FW compiled May 10 2017 16:48:16 7040001 R
+01/03/00 04:54:23 BUILD PISTON: Rezeroed.
+01/03/00 04:54:55 Fast Axis meas:14.276 ideal:14.301
+01/03/00 04:55:31 FeederSlowTweak:0.045
+01/03/00 04:55:33 POWER: VPP just-powered current is 22ma
+01/03/00 05:06:30 POWER: VPP just-powered current is 30ma
+01/03/00 05:21:13 FillBed started at 23356 piston steps.
+01/03/00 05:27:23 POWER: VPP just-powered current is 23ma
+01/03/00 05:27:24 FillBed ended at 23124 piston steps.
+01/03/00 05:27:25 JOB DATA X:09.29 Y:07.28 Z:00.94 L:0.0040 N:0238
+01/03/00 05:27:25 JOB DATA V:0001.49 S:0015.77 C:0 B:0151
+01/03/00 05:27:25 JOB DATA ZPRINT:1.03 JOB_ID:4A27953C35271109
+01/03/00 05:27:25 JOB DATA M:0100 P:0009 s:0.585 c:0.585 E:1.19
+01/03/00 05:27:25 JOB DATA LT:20250620::17:33:39 UTC:20250620::22:33:39
+01/03/00 05:27:25 PART DATA X:00.47 Y:00.47 Z:00.94 V:0000.17 S:0001.75 C:0
+01/03/00 05:27:25 PART DATA X:00.47 Y:00.47 Z:00.94 V:0000.17 S:0001.75 C:0
+01/03/00 05:27:25 PART DATA X:00.47 Y:00.47 Z:00.94 V:0000.17 S:0001.75 C:0
+01/03/00 05:27:25 PART DATA X:00.47 Y:00.47 Z:00.94 V:0000.17 S:0001.75 C:0
+01/03/00 05:27:25 PART DATA X:00.47 Y:00.47 Z:00.94 V:0000.17 S:0001.75 C:0
+01/03/00 05:27:33 POWER: VPP just-powered current is 23ma
+01/03/00 05:28:06 POWER: VPP just-powered current is 23ma
+01/03/00 05:28:09 CheckHome fast LM629:-5 SEQ:-4
+01/03/00 05:28:09 Measured -0.001 inches Limit: 0.030 inches
+01/03/00 06:59:56 Printer: 238 layers in 1:27:08, 1244919488 pixels
+01/03/00 06:59:56 Maximum monitor thread msec: 30
+01/03/00 06:59:56 Build piston at 19300 steps.
+01/03/00 07:00:15 POWER: VPP just-powered current is 22ma
+01/03/00 19:07:44 POWER: VPP just-powered current is 30ma
+01/04/00 05:38:08 POWER: VPP just-powered current is 30ma
+01/04/00 16:08:32 POWER: VPP just-powered current is 30ma
+01/05/00 02:38:56 POWER: VPP just-powered current is 23ma
+01/05/00 13:09:20 POWER: VPP just-powered current is 22ma
+01/05/00 23:39:43 POWER: VPP just-powered current is 23ma
+01/06/00 01:19:35 FillBed started at 23356 piston steps.
+01/06/00 01:25:59 POWER: VPP just-powered current is 30ma
+01/06/00 01:26:00 FillBed ended at 23124 piston steps.
+01/06/00 01:26:02 JOB DATA X:03.56 Y:02.87 Z:02.85 L:0.0040 N:0714
+01/06/00 01:26:02 JOB DATA V:0000.99 S:0043.29 C:0 B:0151
+01/06/00 01:26:02 JOB DATA ZPRINT:1.03 JOB_ID:667027D76072BF53
+01/06/00 01:26:02 JOB DATA M:0100 P:0001 s:1.170 c:1.170 E:3.10
+01/06/00 01:26:02 JOB DATA LT:20250623::13:32:39 UTC:20250623::18:32:39
+01/06/00 01:26:02 PART DATA X:03.56 Y:02.87 Z:02.85 V:0000.99 S:0043.29 C:0
+01/06/00 01:26:02 Printer: start job
+01/06/00 01:26:02 POWDER::StartJob for UofA 260, build piston at 23124.
+01/06/00 01:26:10 POWER: VPP just-powered current is 22ma
+01/06/00 01:26:42 POWER: VPP just-powered current is 23ma
+01/06/00 01:26:45 CheckHome fast LM629:-9 SEQ:-7
+01/06/00 01:26:45 Measured -0.002 inches Limit: 0.030 inches
+01/06/00 01:51:21 2303 0 MOVER: axis 0 excessive position error
+01/13/00 03:19:38 Cpu and lcd initialization completed.
+01/13/00 03:20:01 Cpu and lcd initialization completed.
+01/13/00 03:20:04 booting: stepper controller v10.030
+01/13/00 03:20:05 booting: servo controller v11.009 [2:7]
+01/13/00 03:20:05 POWER: Pogo Raw:15780mV Sense:15750mV Current:262mA DAC:169
+01/13/00 03:20:06 booting: color pogo card detected.
+01/13/00 03:20:06 AutoSelectDAC: DAC bias is 551 (target 551.87)
+01/13/00 03:20:06 Feeder Calibration: Slope: 72124  Offset: -21.446  DAC Offset: 551
+01/13/00 03:20:06 EBox Calibration:   Slope: 3.1337e+06  Offset: -49.883  DAC Slope: -1.3263
+01/13/00 03:20:06 System Calibration: Slope: 0.023015  Offset: -3.479
+01/13/00 03:20:06 Printer: booting UofA 260
+01/13/00 03:20:06 Rev: 12.19.0.0
+01/13/00 03:20:06 PJ260
+01/13/00 03:20:06 FW compiled May 10 2017 16:48:16 7040001 R
+01/13/00 03:21:33 BUILD PISTON: Rezeroed.
+01/13/00 03:22:05 Fast Axis meas:14.283 ideal:14.301
+01/13/00 03:22:41 FeederSlowTweak:0.029
+01/13/00 03:22:43 POWER: VPP just-powered current is 30ma
+01/13/00 03:42:50 POWER: VPP just-powered current is 22ma
