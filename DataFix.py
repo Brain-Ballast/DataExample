@@ -26,7 +26,7 @@ def filter_file(input_file, output_file=None):
                     first_value = line_content.split(',')[0].strip()
                     first_number = float(first_value)
                     
-                    if not (0.0 <= first_number <= 580.151):
+                    if not (0.0 <= first_number <= 4000):
                         removed_range += 1
                         continue
                         
